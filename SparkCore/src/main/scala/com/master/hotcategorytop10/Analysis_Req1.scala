@@ -1,5 +1,6 @@
 package com.master.hotcategorytop10
 
+import org.apache.spark.rdd.RDD
 import org.apache.spark.{SparkConf, SparkContext}
 
 /*
@@ -59,6 +60,36 @@ object  Analysis_Req1 {
       pids.map(id => (id,1))
     }).reduceByKey(_+_)
 
+    // 5. 将品类进行排序，并取前10名
+    // 点击数量， 下单数量， 支付数量
+    val countRDD: RDD[(String, (Iterable[Int], Iterable[Int], Iterable[Int]))] = clickCountRDD.cogroup(orderCountRDD, payCountRDD)
+    val analysisRDD = countRDD.mapValues{
+      case (clickIter, orderIter, payIter) => {
 
+        var clickCnt = 0
+        val iter1 = clickIter.iterator
+        if(iter1.hasNext){
+          clickCnt = iter1.next()
+        }
+
+        var orderCnt = 0
+        val iter2 = orderIter.iterator
+        if(iter2.hasNext){
+          orderCnt = iter2.next()
+        }
+
+        var payCnt = 0
+        val iter3 = payIter.iterator
+        if(iter3.hasNext){
+          payCnt = iter3.next()
+        }
+        (clickCnt, orderCnt, payCnt)
+      }
+    }
+    val resultRDD = analysisRDD.sortBy(_._2, false).take(10)
+
+    // 6.输出结果
+    resultRDD.foreach(println)
+    sc.stop()
   }
 }

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Hadoop-Learning.iml" filepath="$PROJECT_DIR$/Hadoop-Learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hbase/Hbase.iml" filepath="$PROJECT_DIR$/Hbase/Hbase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hdfs/Hdfs.iml" filepath="$PROJECT_DIR$/Hdfs/Hdfs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kafka/Kafka.iml" filepath="$PROJECT_DIR$/Kafka/Kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MapReduce/MapReduce.iml" filepath="$PROJECT_DIR$/MapReduce/MapReduce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Scala/Scala.iml" filepath="$PROJECT_DIR$/Scala/Scala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SparkCore/SparkCore.iml" filepath="$PROJECT_DIR$/SparkCore/SparkCore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SparkSQL/SparkSQL.iml" filepath="$PROJECT_DIR$/SparkSQL/SparkSQL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SparkStreaming/SparkStreaming.iml" filepath="$PROJECT_DIR$/SparkStreaming/SparkStreaming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StageOnePractice/StageOnePractice.iml" filepath="$PROJECT_DIR$/StageOnePractice/StageOnePractice.iml" />
+    </modules>
+  </component>
+</project>

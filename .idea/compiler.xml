@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Hbase" />
+        <module name="Hdfs" />
+        <module name="Kafka" />
+        <module name="MapReduce" />
+        <module name="Scala" />
+        <module name="SparkCore" />
+        <module name="SparkSQL" />
+        <module name="SparkStreaming" />
+        <module name="StageOnePractice" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Hadoop-Learning" target="1.8" />
+      <module name="Hbase" target="1.8" />
+      <module name="Hdfs" target="1.8" />
+      <module name="Kafka" target="1.8" />
+      <module name="MapReduce" target="1.8" />
+      <module name="Scala" target="1.8" />
+      <module name="SparkCore" target="1.8" />
+      <module name="SparkSQL" target="1.8" />
+      <module name="SparkStreaming" target="1.8" />
+      <module name="StageOnePractice" target="1.8" />
+      <module name="zzz" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="SparkCore:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4fbb4744-8af8-4772-9c4a-f908e21548f3" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/SparkCore/src/main/scala/com/c503/core/FavTeacher.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Hadoop_Learning$SparkSqlUtils.ic" NAME="SparkSqlUtils Coverage Results" MODIFIED="1537609228947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.c503.utils.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Scala Worksheet" />
+        <option value="Package Object" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>missing</find>
+      <find>scala.suffix.version</find>
+      <find>内写入的文件</find>
+      <find>liumm</find>
+      <find>kafka</find>
+      <find>saveAsHadoopFile</find>
+      <find>rdd_map</find>
+      <find>r</find>
+      <find>sql</find>
+      <find>spark-sql</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="H:/TOOL/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="H:\TOOL\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1qvGncaW6EmigOJNwpeYzgnMUdW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="WordC&#9;FILE&#9;file:///Users/liuxm/A_study/idea_ws/HadoopLearning/SparkCore/src/main/scala/com/c503/core/WordCount.scala&#10;person&#9;FILE&#9;file:///Users/liuxm/A_study/idea_ws/HadoopLearning/SparkSQL/src/main/resources/person.json&#10;saveAsAPIHadoop&#9;null&#9;null&#10;log4j-de&#9;FILE&#9;jar:///Users/liuxm/E_lib/local_repository/org/apache/spark/spark-core_2.11/2.0.0/spark-core_2.11-2.0.0.jar!/org/apache/spark/log4j-defaults.properties" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../trunk20210428/trunk" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.36331776" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\B11项目\尚硅谷\HadoopLearning-master\datas" />
+      <recent name="$PROJECT_DIR$/docs/_media" />
+      <recent name="$PROJECT_DIR$/docs/images" />
+      <recent name="$PROJECT_DIR$/SparkSQL/src/main/resources/sql" />
+      <recent name="$PROJECT_DIR$/SparkSQL/src/main/resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.c503.kafka.example" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.c503.utils" />
+      <recent name="com.liumm.sparkcore" />
+      <recent name="com.liumm" />
+      <recent name="liumm" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/SparkCore/src/main/resources/spark_core" />
+      <recent name="$PROJECT_DIR$/SparkCore/src/main/resources" />
+      <recent name="$PROJECT_DIR$/SparkStreaming/src/main/resources" />
+      <recent name="$PROJECT_DIR$/Kafka/src/main/resources" />
+      <recent name="$PROJECT_DIR$/SparkCore/src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Analysis_Req1">
+    <configuration name="Analysis_Req1" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.master.hotcategorytop10.Analysis_Req1" />
+      <module name="SparkCore" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.master.hotcategorytop10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FavTeacher" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.c503.core.FavTeacher" />
+      <module name="SparkCore" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.c503.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SparkCore_1_CreateRdd_1_From_Parallelize" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.liumm.sparkcore.SparkCore_1_CreateRdd_1_From_Parallelize" />
+      <module name="SparkCore" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liumm.sparkcore.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordCount" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.c503.core.WordCount" />
+      <module name="SparkCore" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.c503.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Analysis_Req1" />
+        <item itemvalue="Application.SparkCore_1_CreateRdd_1_From_Parallelize" />
+        <item itemvalue="Application.WordCount" />
+        <item itemvalue="Application.FavTeacher" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\10050365c\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4fbb4744-8af8-4772-9c4a-f908e21548f3" name="Default" comment="" />
+      <created>1532086551095</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532086551095</updated>
+      <workItem from="1532086552702" duration="981000" />
+      <workItem from="1532087567755" duration="4683000" />
+      <workItem from="1532095181515" duration="1423000" />
+      <workItem from="1532096803611" duration="2927000" />
+      <workItem from="1532689283720" duration="5047000" />
+      <workItem from="1532740389734" duration="22410000" />
+      <workItem from="1534559523272" duration="10394000" />
+      <workItem from="1534761985323" duration="4416000" />
+      <workItem from="1535771371909" duration="28008000" />
+      <workItem from="1536937514855" duration="28000" />
+      <workItem from="1537070240529" duration="5828000" />
+      <workItem from="1537195763522" duration="84000" />
+      <workItem from="1537279220440" duration="545000" />
+      <workItem from="1537286390439" duration="3000" />
+      <workItem from="1537365192981" duration="3642000" />
+      <workItem from="1537595604046" duration="3241000" />
+      <workItem from="1537599147132" duration="8056000" />
+      <workItem from="1537672708616" duration="8482000" />
+      <workItem from="1537759294268" duration="6000" />
+      <workItem from="1537881141120" duration="3122000" />
+      <workItem from="1617952829998" duration="2418000" />
+      <workItem from="1617955288298" duration="9095000" />
+      <workItem from="1618294185256" duration="287000" />
+      <workItem from="1618991227966" duration="2460000" />
+      <workItem from="1619148619000" duration="4389000" />
+      <workItem from="1619329985388" duration="4121000" />
+      <workItem from="1619494733098" duration="2864000" />
+      <workItem from="1619680835737" duration="4296000" />
+      <workItem from="1620890036961" duration="3640000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XPathView.XPathProjectComponent">
+    <history />
+    <find-history />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+</project>
